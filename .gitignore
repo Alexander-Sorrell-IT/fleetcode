@@ -1,0 +1,13 @@
+# Machine-specific
+.terminal
+
+# Runtime state (generated at launch time)
+workdirs/
+logs/
+mailbox/
+findings/
+status/
+pids.txt
+*.pid
+*.log
+*.prompt
